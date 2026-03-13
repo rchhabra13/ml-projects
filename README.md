@@ -1,14 +1,6 @@
-# NYC Collision Analysis
+# New-York-City-Collision-Analysis
+Project as part of my course work in CS225 - Spatial Computing.
 
-Spatial analysis of New York City taxi collisions with mapping and computation.
+Constructed 5 Geo-Spatial filters and charted visualizations using Geo-pandas on NYC Collision data-set.
 
-## Features
-- [ ] Overview
-- [ ] Architecture
-- [ ] Setup
-
-## Tech Stack
-- TBD
-
-## Getting Started
-
+Developed Machine Learning Models to detect collision hot spots for pedestrians using Logistic Regression (91%).
