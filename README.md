@@ -8,8 +8,12 @@ commit history.
 | Project | Description |
 |---------|-------------|
 | 3d-visualization | 3D visualization of California's road network on Google Earth |
+| bankruptcy-prediction-project | CS 559 class project: bankruptcy prediction |
+| hospital-readmission | 30-day diabetic readmission prediction on 101,766 hospital encounters |
+| inverse-destination-popularity | Bronze, Silver and Gold data pipeline over flight and tourism data |
 | nyc-collision-analysis | Spatial analysis of New York City taxi collisions |
 | phishing-website-detection | KNN classifier for phishing website detection |
+| real-time-fire-detection | CNN fire detection on live video |
 
 ## Write-up only
 
